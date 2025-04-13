@@ -44,7 +44,7 @@ Este projeto em **Python** tem como objetivo extrair, transformar e salvar dados
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/teste-transformacao-dados.git
+git clone https://github.com/Vidigal-code/challenges-Intuitive/tree/main/2.%20TESTE%20DE%20TRANSFORMAÇÃO%20DE%20DADOS/data_transformation_python.git
 cd teste-transformacao-dados
 ```
 
