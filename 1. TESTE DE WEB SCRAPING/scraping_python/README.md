@@ -37,7 +37,7 @@ scraping_python/
 ### Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/scraping_python.git
+git clone https://github.com/Vidigal-code/challenges-Intuitive/tree/main/1.%20TESTE%20DE%20WEB%20SCRAPING/scraping_python.git
 cd scraping_python
 pip install -r requirements.txt
 ```
