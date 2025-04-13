@@ -17,7 +17,7 @@ Este projeto consiste em uma ferramenta para baixar, processar e analisar dados 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/Vidigal-code/challenges-Intuitive/tree/main/3.%20TESTE%20DE%20BANCO%20DE%20DADOS/test_database_python.git
-   cd ans-data-analysis
+   cd test_database_python
    ```
 
 2. Instale as dependências:
