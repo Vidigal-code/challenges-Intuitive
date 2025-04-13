@@ -48,7 +48,7 @@ O projeto está organizado em pacotes e composto pelas seguintes classes princip
 ## Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/scraping_java.git
+git clone https://github.com/Vidigal-code/challenges-Intuitive/tree/main/1.%20TESTE%20DE%20WEB%20SCRAPING/scraping_java.git
 cd scraping_java
 mvn clean package
 ```
