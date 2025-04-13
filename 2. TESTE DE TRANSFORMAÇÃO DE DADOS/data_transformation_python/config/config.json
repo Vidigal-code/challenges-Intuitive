@@ -1,0 +1,11 @@
+[
+  {
+    "pdf_path": "file/input/Anexo_I.pdf",
+    "csv_output": "file/output/Rol_Procedimentos.csv",
+    "zip_output": "file/output/Teste_Vidigal.zip",
+    "replacements": {
+      "OD": "Odontologia",
+      "AMB": "Ambulatorial"
+    }
+  }
+]

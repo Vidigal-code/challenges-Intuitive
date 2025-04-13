@@ -1,0 +1,4 @@
+pandas
+tabula-py
+jpype1
+packaging

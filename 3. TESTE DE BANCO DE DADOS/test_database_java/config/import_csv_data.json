@@ -1,0 +1,11 @@
+{
+    "paths": {
+      "demonstracoes_csv": [
+        "downloads/demonstracoes/2024/1T2024.csv"
+      ],
+      "operadoras_csv": [
+        "downloads/operadoras/Relatorio_cadop.csv"
+      ]
+    }
+  }
+  

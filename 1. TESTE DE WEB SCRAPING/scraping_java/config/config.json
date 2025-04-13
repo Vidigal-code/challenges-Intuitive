@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/atualizacao-do-rol-de-procedimentos",
+    "download_directory": "anexos",
+    "output_zip": "anexos.zip",
+    "anexos": [
+      {
+        "nome": "Anexo I",
+        "regex": "anexo\\s*i"
+      },
+      {
+        "nome": "Anexo II",
+        "regex": "anexo\\s*ii"
+      }
+    ]
+  }
+]

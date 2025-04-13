@@ -1,0 +1,18 @@
+[
+    {
+      "type": "demonstracoes",
+      "source": "https://dadosabertos.ans.gov.br/FTP/PDA/demonstracoes_contabeis/",
+      "output": "downloads/demonstracoes",
+      "encoding": "utf8mb4",
+      "ano": ["2024"],
+      "filter": [""]
+    },
+    {
+      "type": "operadoras",
+      "source": "https://dadosabertos.ans.gov.br/FTP/PDA/operadoras_de_plano_de_saude_ativas/",
+      "output": "downloads/operadoras",
+      "encoding": "utf8mb4",
+      "filter": [""]
+    }
+  ]
+  
