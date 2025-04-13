@@ -46,8 +46,8 @@ Projeto em **Python** para **extração, transformação e salvamento** de dados
    *Observação:* O link abaixo clona o repositório inteiro. Em seguida, navegue até a pasta do projeto.
 
    ```bash
-   git clone https://github.com/Vidigal-code/challenges-Intuitive.git
-   cd "2. TESTE DE TRANSFORMAÇÃO DE DADOS/data_transformation_python"
+   git clone https://github.com/Vidigal-code/challenges-Intuitive/blob/main/2.%20TESTE%20DE%20TRANSFORMAÇÃO%20DE%20DADOS/data_transformation_python.git
+   cd "data_transformation_python"
    ```
 
 2. **Crie um ambiente virtual (opcional, mas recomendado):**
