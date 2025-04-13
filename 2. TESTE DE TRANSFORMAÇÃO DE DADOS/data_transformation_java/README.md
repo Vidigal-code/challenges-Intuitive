@@ -55,7 +55,7 @@ data_transformation_java/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/data_transformation_java.git
+git clone https://github.com/Vidigal-code/challenges-Intuitive/tree/main/2.%20TESTE%20DE%20TRANSFORMAÇÃO%20DE%20DADOS/data_transformation_java.git
 cd data_transformation_java
 ```
 
